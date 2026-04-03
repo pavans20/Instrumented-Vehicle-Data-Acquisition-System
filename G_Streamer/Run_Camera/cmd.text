@@ -1,0 +1,11 @@
+
+For Running the module 
+1. v4l2-ctl --list-devices - This command is use to get the camera device id name
+2. Change the config_file accordingly
+3. bash camera_feed.sh - Run the command to get the camera camera_feed
+
+
+For Stopping the module
+1. Close all the camera screens
+2. Type ctrl + c on terminal to end the process
+3. pkill gst-launch
