@@ -7,4 +7,5 @@ Existing data collection systems are often expensive and limited by the types an
 ## Sensors Data Source File
 In this we have four folders which consists the source code and read me file for Lidar (VlP-16) : catkin_ws, for Multiple webcames cameras : G_Streamer, OBD and GPS 
 ## Instrumented Vehicle used in Data Collection
-<img width="895" height="1033" alt="Instrumented_vehicle_and_sensor_setup1" src="https://github.com/user-attachments/assets/9ddc7d2f-86fb-48bd-8a54-f7a5401ab4d1" />
+<img width="794" height="1033" alt="Instrumented_vehicle_and_sensor_setup3" src="https://github.com/user-attachments/assets/f1917d0b-efa1-430c-a391-8cf641788748" />
+
